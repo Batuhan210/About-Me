@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://www.canva.com/design/DAGOO2KNWeQ/UIFUNrY78a5YOBX2wSR_kA/edit?utm_content=DAGOO2KNWeQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGOO2KNWeQ/UIFUNrY78a5YOBX2wSR_kA/edit?utm_content=DAGOO2KNWeQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-- Facts about me **I see every CSS adjustment as a work of art; page design is my personal canvas.**
+- Fact **I see every CSS adjustment as a work of art; page design is my personal canvas.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
