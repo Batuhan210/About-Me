@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Batuhan</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate junior frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=batuhan210&label=Profile%20views&color=0e75b6&style=flat" alt="batuhan210" /> </p>
 
@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://www.canva.com/design/DAGOO2KNWeQ/UIFUNrY78a5YOBX2wSR_kA/edit?utm_content=DAGOO2KNWeQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGOO2KNWeQ/UIFUNrY78a5YOBX2wSR_kA/edit?utm_content=DAGOO2KNWeQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-- Fact **I see every CSS adjustment as a work of art; page design is my personal canvas.**
+- Fun Fact **I see every CSS adjustment as a work of art; page design is my personal canvas.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
