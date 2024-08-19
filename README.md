@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Crown Clothing E-commerce](https://github.com/Batuhan210/Crown-Clothing-E-commerce)
 
-- 🌱 I’m currently learning **React,SQL**
+- 🌱 I’m currently learning **React,Typescript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Batuhan210](https://github.com/Batuhan210)
 
